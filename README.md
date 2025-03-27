@@ -4,6 +4,6 @@
 Este repositorio incluye los materiales utilizados para la presentación.
 
 ## Materiales incluyen:
-* basicKin_sim1: Ejemplo utilizado en la presentación
-* kinEq_sim1: Ejemplo utilizado en la presentación
+* basicKin_sim1: Ejemplo introductorio
+* kinEq_sim1: Ejemplo introductorio
 * SimulinkAEKSeminar.prj: Modelo de la motocicleta.
